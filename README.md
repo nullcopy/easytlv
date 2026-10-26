@@ -66,3 +66,7 @@ int err = etlv_serialize(tlvRaw, &bufSz, t, sizeof(t)/sizeof(t[0]));
 assert(err >= 0);
 ```
 
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0 or later](LICENSE) (`GPL-3.0-or-later`).
